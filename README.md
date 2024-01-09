@@ -1,5 +1,5 @@
 # GPT-Zufalls-Experiment
-Wie stark beeinflusst der Zufall die Antwort des Sprachmodells GPT auf ein Logikrätsel? Das Notebook stellt dieselbe Rätselfrage immer wieder und versucht, die Antworten auszuwerten.
+Wie stark beeinflusst der Zufall die Antwort des Sprachmodells GPT auf ein Logikrätsel? Das Notebook stellt dieselbe Rätselfrage immer wieder und versucht, die Antworten auszuwerten. Mehr zu den Ergebnissen - und den Hintergründen - im Blog: https://www.janeggers.tech/s48s
 
 [![Screenshot: Einstell-Widgets in Colab](./Bildschirmfoto%202024-01-09%20um%2007.48.39.png)](./GPT_Antwort_auf_Rätselfrage_testen.ipynb)
 

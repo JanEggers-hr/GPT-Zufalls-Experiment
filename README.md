@@ -1,8 +1,8 @@
 # GPT-Zufalls-Experiment
 Wie stark beeinflusst der Zufall die Antwort des Sprachmodells GPT auf ein Logikrätsel? Das Notebook stellt dieselbe Rätselfrage immer wieder und versucht, die Antworten auszuwerten.
 
-[![Bildschirmfoto 2024-01-09 um 07.48.39.png](Screenshot: Einstell-Widgets in Colab)
-Hier klicken, um zum Notebook zu kommen](./GPT_Antwort_auf_Rätselfrage_testen.ipynb)
+[![Bildschirmfoto 2024-01-09 um 07.48.39.png](Screenshot: Einstell-Widgets in Colab)](./GPT_Antwort_auf_Rätselfrage_testen.ipynb)
+[Hier klicken, um zum Notebook zu kommen](./GPT_Antwort_auf_Rätselfrage_testen.ipynb)
 
 Was man braucht: 
 - Ein [API-Token von OpenAI](https://platform.openai.com/api-keys)
